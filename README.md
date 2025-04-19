@@ -30,5 +30,3 @@ This Python tool is designed to automatically parse SIEM logs, filter, and highl
 
 > **Important:** Ensure you have your SIEM logs (e.g., `siem_log.txt`) in the same directory, or modify the script to point to the correct log location.
 
-## License
-MIT License (Choose an appropriate license if necessary)
